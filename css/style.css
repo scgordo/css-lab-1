@@ -1,0 +1,32 @@
+body {
+  margin:2% 15%;
+  background-color: #003f87;
+  
+}
+
+h1, h3 {
+  color: white;
+  font-family: Calibri, sans-serif;
+  text-align: center;
+}
+
+p {
+  color: #b1b1b1;
+  font-family: Calibri, sans-serif;
+  font-size: 1.25em;
+}
+
+header {
+  text-align: center;
+}
+
+ul, li, a {
+  text-align: center;
+  list-style: none;
+  font-family: Calibri, sans-serif;
+  color: white;
+}
+
+a:visited {
+  color: gray;
+}
